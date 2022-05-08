@@ -14,6 +14,11 @@ module.exports.run = async (client, message, args) => {
             label: "Gamer Girl",
             value: "414786081959968770",
             emoji: "👱🏻‍♀️"
+        },
+        {
+            label: "DJ",
+            value: "401095162090225664",
+            emoji: "🎧"
         }
     ];
 
