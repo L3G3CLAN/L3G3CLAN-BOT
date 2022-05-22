@@ -41,11 +41,7 @@
 
 <br />
 
-### Partner
-
-- [SlimGame](https://slimgame.eu)
-
-<br />
+<a href="https://github.com/L3G3CLAN" rel="nofollow"> <img width="420" src="https://camo.githubusercontent.com/2276bfea246cfdb742ae50205625b3f274ab2d64543de6e7f79932eb8cea2d56/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47687a47617261676526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267469746c655f636f6c6f723d64633134336326746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d64633134336326686964655f626f726465723d747275652662675f636f6c6f723d323832613336266c61796f75743d636f6d7061637426686964655f7469746c653d66616c736526686964655f72616e6b3d66616c7365" data-canonical-src="https://github-readme-stats.vercel.app/api?username=L3G3CLAN&amp;count_private=true&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=ffffff&amp;icon_color=dc143c&amp;hide_border=true&amp;bg_color=282a36&amp;layout=compact&amp;hide_title=false&amp;hide_rank=false" style="max-width: 100%;"></a>
 
 ### Languages:
 
